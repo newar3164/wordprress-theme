@@ -31,3 +31,9 @@ Thumbs.db
 # Node / Composer (if used)
 node_modules/
 vendor/
+
+
+# Editor history files
+.history/
+.history/*
+*.history
